@@ -1,2 +1,41 @@
 /* import fonts from fonts.css */
 @import url(./fonts.css);
+
+body{
+  margin:0;
+  padding: 0;
+  background: white;
+}
+
+/* #navbarNav{
+  color: red;
+
+} */
+
+
+/* .li{
+  float: right;
+  margin: 0px;
+  padding: 0px;
+} */
+
+/* li{
+  float: left;
+  padding: 0px;
+} */
+
+
+/* nav{
+  width: 100%;
+  overflow: auto;
+} */
+
+/* ul {
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+} */
+
+
+
+
